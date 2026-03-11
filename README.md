@@ -2,8 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dasol's%GitHub&fontSize=90)
 
 <!--내용 부분-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soll07)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">✨ Tech Stack ✨</h3>
 <!--<div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -30,6 +28,14 @@
 
 <br>
 
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=soll07&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soll07&layout=compact)
+</div>
+
+<br>
+
 <h3 align="center">📚 Studying 📚</h3>
 
 
@@ -44,18 +50,3 @@
 
 
 <br>
-
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
