@@ -30,10 +30,9 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soll07&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soll07&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=soll07&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soll07&layout=compact"/>
 </div>
-
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
